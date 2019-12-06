@@ -56,3 +56,60 @@
 
 
 
+5 Desember 2019 , 161112880 Nilam Apridayanti -> Scrummuster
+
+ Apa yang akan dikerjakan hari ini?
+
+    161112928 Iskandar Muda Dinata P ->  merapikan slide utama, persiapan Scrummaster, menambahkan gambar eco, edit judul,
+
+    161112880 Nilam Apridayanti      -> menambahkan section yang terhapus, ubah kesalahan pembuatan section,  memperbaiki slide yang tidak jalan, memindahkan gambar dari slide ke 4 ke slide 2
+
+    161111671 Ihsan Wiguna           -> sedikit perbaikan,  Menambah NIM an:Iskandar, 
+
+    16111 M. Akbar                   -> edit tampilan, Merge branch 'master' of https, Rubah posisi gambar ke slide 1, 
+
+    16111 M. Dendi Ananda            -> tidak ada commit
+
+
+  Ada masalah dalam pengerjaan tugas? 
+
+    161112928 Iskandar Muda Dinata P -> masalah gulp serve yang tidak bisa tampil
+
+    161112880 Nilam Apridayanti      -> -
+
+    161111671 Ihsan Wiguna           -> masalah gulp serve yang tidak bisa tampil
+
+    16111 M. Akbar                   -> -
+ 
+    16111 M. Dendi Ananda            -> -
+
+
+
+
+6 Desember 2019 , 161112880 Nilam Apridayanti -> Scrummuster
+
+ Apa yang akan dikerjakan hari ini?
+
+    161112928 Iskandar Muda Dinata P ->   Laporan Scrummaster, Memperbaiki HTML, Menambahkan fitur Terbaik Echo Dot dengan Alexa
+
+    161112880 Nilam Apridayanti      -> 
+
+    161111671 Ihsan Wiguna           -> 
+
+    16111 M. Akbar                   -> 
+
+    16111 M. Dendi Ananda            -> 
+
+
+  Ada masalah dalam pengerjaan tugas? 
+
+    161112928 Iskandar Muda Dinata P -> 
+
+    161112880 Nilam Apridayanti      -> -
+
+    161111671 Ihsan Wiguna           -> -
+
+    16111 M. Akbar                   -> -
+ 
+    16111 M. Dendi Ananda            -> -
+
