@@ -7,7 +7,7 @@ Tugas TKPPL Mengenai Perangkat pintar Amazon Alexa
 
 Tugas ini disusun oleh:
 
-. Iskandar Muda 		[]
+. Iskandar Muda 		[161112928]
 . Muhammad Akbar 		[161113991]
 . Nilam Apridayanti		[161112880]
 . Ihsan Wiguna			[161111671]
