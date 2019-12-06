@@ -1,0 +1,58 @@
+28 November 2019
+
+  161112928 Iskandar Muda Dinata P -> Scrumuster
+
+  Kemarin mengerjakan apa?
+
+    161112880 Nilam Apridayanti -> -
+
+    161111671 Ihsan Wiguna -> -
+
+    16111 M. Akbar -> -
+
+    16111 M. Dendi Ananda -> -
+
+  Apa yang akan dikerjakan hari ini?
+
+    161112880 Nilam Apridayanti -> Mengubah judul, dan menambahkan deskripsi.
+
+    161111671 Ihsan Wiguna -> tidak ada komit 
+
+    161113991 M. Akbar -> tidak ada komit
+
+    161110081 M. Dendi Ananda -> tidak ada komit
+
+  Ada masalah dalam pengerjaan tugas? 
+
+    161112880 Nilam Apridayanti -> terjadi konflik saat melakukan push
+
+    161111671 Ihsan Wiguna -> - masalah instalasi 
+
+    161113991 M. Akbar -> masalah instalasi
+
+    161110081 M. Dendi Ananda -> masalah instalasi
+
+
+
+02 Desember 2019
+
+  161112880 Nilam Apridayanti -> Update deskripsi.
+
+    161111671 Ihsan Wiguna -> tidak ada komit 
+
+    161113991 M. Akbar -> Menambah judul, update nama kelompok, dan update deskripsi
+
+    161110081 M. Dendi Ananda -> Penambahan Gambar, Penambahan smart echo
+
+  Ada masalah dalam pengerjaan tugas? 
+
+    161112880 Nilam Apridayanti -> 
+
+    161111671 Ihsan Wiguna -> - masalah instalasi 
+
+    161113991 M. Akbar -> 
+
+    161110081 M. Dendi Ananda -> 
+
+
+
