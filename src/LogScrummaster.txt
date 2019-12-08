@@ -92,7 +92,7 @@
 
     161112928 Iskandar Muda Dinata P ->   Laporan Scrummaster, Memperbaiki HTML, Menambahkan fitur Terbaik Echo Dot dengan Alexa
 
-    161112880 Nilam Apridayanti      -> 
+    161112880 Nilam Apridayanti      ->  membuat laporan ScrumMaster tanggal 5-6 Desember, hapus slide menambahkan kelebiihan alex,  menambahkan kelebiihan alexa, menambahkan kelemahan alexa
 
     161111671 Ihsan Wiguna           -> 
 
