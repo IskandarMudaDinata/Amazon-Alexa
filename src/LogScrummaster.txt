@@ -55,6 +55,56 @@
     161110081 M. Dendi Ananda -> 
 
 
+03 Desember 2019, 161113991 Muhammad Akbar -> Scrummaster
+ Apa yang akan dikerjakan hari ini?
+ 
+    161112928 Iskandar Muda Dinata -> Menambahkan fitur terbaik
+    
+    161112880 Nilam Apridayanti -> Menambahkan aplikasi dan layanan yang terhubung dengan alexa, Menambahkan fungsi alexa, Menambah slide 1, Hapus slide 5.
+
+    161113991 Muhammad Akbar -> Tidak ada commit
+
+    161111671 Ihsan Wiguna -> Tidak ada commit
+
+    161110081 M. Dendi Ananda -> Tidak ada commit
+
+ Ada masalah dalam pengerjaan tugas?
+
+    161112928 Iskandar Muda Dinata ->
+    
+    161112880 Nilam Apridayanti -> 
+
+    161113991 Muhammad Akbar -> Terkena Merge Branch
+
+    161111671 Ihsan Wiguna ->
+
+    161110081 M. Dendi Ananda ->
+
+
+04 Desember 2019, 161113991 Muhammad Akbar -> Scrummaster
+ Apa yang akan dikerjakan hari ini?
+ 
+    161112928 Iskandar Muda Dinata -> Menambahkan kelebihan dan kelemahan.
+    
+    161112880 Nilam Apridayanti -> Menambahkan aplikasi dan layanan yang terhubung dengan alexa, Menambahkan kekurangan dan kelebihan, Menambah Fungsi alexa, Menambahkan kelebihan alexa,
+
+    161113991 Muhammad Akbar -> Hapus Merging, Rapikan Tampilan,Menambahkan kekurangan alexa, Update kelebihan alexa, update kekurangan alexa.
+
+    161111671 Ihsan Wiguna -> Menambahkan NIM, Menambahkan video, Mengedit deskripsi amazon eco, Mengedit file readme.adoc,
+
+    161110081 M. Dendi Ananda -> Penambahan NIM dan Deskripsi speaker Eco, 
+
+ Ada masalah dalam pengerjaan tugas?
+
+    161112928 Iskandar Muda Dinata ->
+    
+    161112880 Nilam Apridayanti -> 
+
+    161113991 Muhammad Akbar -> Terdapat Merge Branch.
+
+    161111671 Ihsan Wiguna ->
+
+    161110081 M. Dendi Ananda ->
 
 5 Desember 2019 , 161112880 Nilam Apridayanti -> Scrummuster
 
