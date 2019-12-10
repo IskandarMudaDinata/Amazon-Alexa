@@ -163,13 +163,13 @@
  
     161110081 M. Dendi Ananda            -> -
 
-9 Desember 2019, 161110081 Muhammad Dendi Ananda -> Scrummaster
+9-10 Desember 2019, 161110081 Muhammad Dendi Ananda -> Scrummaster
 
 	Apa yang akan dikerjakan hari ini?
 
-	161110081 Muhammad Dendi Ananda -> Membuat Judul pada Html, Edit Html pada slide 1
+	161110081 Muhammad Dendi Ananda -> Membuat Judul pada Html, Edit Html pada slide 1, Design Html
 
-	161112880 Nilam Apridayanti -> Hapus Slide 17
+	161112880 Nilam Apridayanti -> Hapus Slide 17, Menambah slide perangkat smarthome yang bisa diperintah pakai alexa
 
 	161111671 Ihsan Wiguna           -> -
 
