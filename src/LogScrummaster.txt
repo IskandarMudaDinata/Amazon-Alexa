@@ -118,7 +118,7 @@
 
     16111 M. Akbar                   -> edit tampilan, Merge branch 'master' of https, Rubah posisi gambar ke slide 1, 
 
-    16111 M. Dendi Ananda            -> tidak ada commit
+    161110081 M. Dendi Ananda            -> tidak ada commit
 
 
   Ada masalah dalam pengerjaan tugas? 
@@ -131,7 +131,7 @@
 
     16111 M. Akbar                   -> -
  
-    16111 M. Dendi Ananda            -> -
+    161110081 M. Dendi Ananda            -> -
 
 
 
@@ -148,7 +148,7 @@
 
     16111 M. Akbar                   -> 
 
-    16111 M. Dendi Ananda            -> 
+    161110081 M. Dendi Ananda            -> 
 
 
   Ada masalah dalam pengerjaan tugas? 
@@ -161,5 +161,18 @@
 
     16111 M. Akbar                   -> -
  
-    16111 M. Dendi Ananda            -> -
+    161110081 M. Dendi Ananda            -> -
 
+9 Desember 2019, 161110081 Muhammad Dendi Ananda -> Scrummaster
+
+	Apa yang akan dikerjakan hari ini?
+
+	161110081 Muhammad Dendi Ananda -> Membuat Judul pada Html, Edit Html pada slide 1
+
+	161112880 Nilam Apridayanti -> Hapus Slide 17
+
+	161111671 Ihsan Wiguna           -> -
+
+   	16111 M. Akbar                   -> -
+
+	161112928 Iskandar Muda Dinata P ->
