@@ -176,3 +176,17 @@
    	16111 M. Akbar                   -> -
 
 	161112928 Iskandar Muda Dinata P ->
+
+11-12 Desember 2019, 161111671 Ihsan Wiguna -> Scrummaster
+
+	Apa yang akan dikerjakan hari ini?
+
+	161110081 Muhammad Dendi Ananda -> 
+
+	161112880 Nilam Apridayanti -> Memperbaiki HTML, Menambah slide lanjutan Speaker Echo
+
+	161111671 Ihsan Wiguna           -> - Peringkasan deskripsi, merapikan HTML dan Penambahan gambar
+
+   	16111 M. Akbar                   -> -
+
+	161112928 Iskandar Muda Dinata P -> Edit keseluruhan tampilan HTML, Merapikan Slide, Menambah Link referensi
